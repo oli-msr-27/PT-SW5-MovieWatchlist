@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(26, 26, 26);
+    color: white;
+}
+
+.navbar {
+    background-color: rgb(93, 93, 93);
+    --bs-navbar-color: white;
+    --bs-navbar-active-color: white;
+    --bs-navbar-brand-color: white;
+}
